@@ -1,5 +1,5 @@
 # Projection of Lines
-This a simple C++ application on projection of lines in engineering graphics.
+This is a simple C++ application on projection of lines in engineering graphics.
 
 The program takes as input the True Length, Angle with HP (theta), and Angle with VP (phi) of the line, and outputs-
 1.  Front View Length
