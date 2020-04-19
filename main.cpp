@@ -5,6 +5,8 @@
 // Program which inputs TL, theta, phi of line
 // and outputs TVL, FVL, alpha, beta
 
+// Helpful in checking your projections of lines to a very fine accuracy.
+
 #include <iostream>
 #include <math.h>
 #include <cmath>
